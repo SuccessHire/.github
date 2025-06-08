@@ -1,7 +1,7 @@
 # SuccessHire
 
 <p align="left">
-  <img src="./assets/SuccessHire_logo.jpg" alt="SuccessHire Logo" width="200"/>
+  <img src="../assets/SuccessHire_logo.jpg" alt="SuccessHire Logo" width="200"/>
 </p>
 
 
