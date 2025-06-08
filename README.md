@@ -52,7 +52,6 @@ We welcome:
 - AI engineers, developers, and designers who share our mission
 - Early partners or sponsors for product pilots
 
-📬 Reach out: [successhire.contact@gmail.com](mailto:successhire.contact@gmail.com)  
 🌐 [Website](https://successhire.ai) (coming soon)
 
 ---
